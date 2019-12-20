@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("exa.sapui5.controller.View1", {
 		onInit: function () {
-			//Release 1.0.0
+			//HOT FIX Release 1.0.1
 		}
 	});
 });
